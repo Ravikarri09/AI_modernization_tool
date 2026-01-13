@@ -1,0 +1,6 @@
+click
+requests
+lancedb
+sentence-transformers
+python-dotenv
+pytest
